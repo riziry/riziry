@@ -9,15 +9,15 @@
 
 <div><p>Currently Learn about python,go and Cyber Security: </p></div>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riziry&repo=MeLearningHelloWorld)](https://github.com/riziry/MeLearningHelloWorld)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riziry&repo=CyberSec&theme=radical)](https://github.com/riziry/CyberSec)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riziry&repo=MeLearningHelloWorld&theme=darcula)](https://github.com/riziry/MeLearningHelloWorld)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=riziry&repo=CyberSec&theme=darcula)](https://github.com/riziry/CyberSec)
 
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riziry&layout=compact&theme=radical)](https://github.com/riziry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riziry&layout=compact&theme=darcula)](https://github.com/riziry/github-readme-stats)
 
 <div><p>My profile overview: </p></div>
 
-![riziry's github stats](https://github-readme-stats.vercel.app/api?username=riziry&show_icons=true&theme=radical)
+![riziry's github stats](https://github-readme-stats.vercel.app/api?username=riziry&show_icons=true&theme=darcula)
 
