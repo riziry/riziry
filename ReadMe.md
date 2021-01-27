@@ -1,6 +1,6 @@
 <h1 align=center>Hi!, こんにちは！ 👋</h1>
 
-## Welcome to my github! I'm riziry
+## Welcome to my github! I'm Iqi
 ## Student at Telkom University, Interested with Deep Learning, NLP, pygame, and Cyber Security
 
 
